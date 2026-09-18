@@ -77,7 +77,7 @@ rule of 2 consecutive iterations without a new non-dominated policy (maximum 5 i
 
 ## License
 
-Released under the [MIT License](LICENSE).
+Released under the [BSD 3-Clause License](LICENSE).
 
 ## How to cite
 

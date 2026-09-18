@@ -47,7 +47,7 @@ authors:
       at Arlington
 repository-code: "https://github.com/sandeshadhikari23/CRN_MultiHazard_Kriging_MOEGO"
 doi: 10.5281/zenodo.22834095
-license: MIT
+license: BSD-3-Clause
 version: 1.0.0
 date-released: "2026-09-16"
 keywords:

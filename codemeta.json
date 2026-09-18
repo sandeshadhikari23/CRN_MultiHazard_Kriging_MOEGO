@@ -1,0 +1,87 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "CRN_MultiHazard_Kriging_MOEGO",
+  "description": "A reduced, reproducible case study accompanying the manuscript \"Proactive Rehabilitation Planning for Concrete Road Networks Considering Multiple Hazards and Multiple Assets: A Kriging-based Multi-Objective Efficient Global Optimization Approach.\" Includes the Kriging-based Multi-Objective Efficient Global Optimization (MO-EGO) framework (surrogate model, optimizer, cost-based rehabilitation budget, network-processing routines) and the underlying high-fidelity earthquake/flood damage modeling and SUMO traffic-simulation engine (hazard-model settings, fragility parameters), for a concrete road network case study in Arden-Arcade, Sacramento, California.",
+  "identifier": "https://doi.org/10.5281/zenodo.22834095",
+  "license": "https://spdx.org/licenses/BSD-3-Clause",
+  "codeRepository": "https://github.com/sandeshadhikari23/CRN_MultiHazard_Kriging_MOEGO",
+  "version": "1.0.0",
+  "datePublished": "2026-09-16",
+  "programmingLanguage": [
+    "Python"
+  ],
+  "runtimePlatform": [
+    "Python 3"
+  ],
+  "operatingSystem": [
+    "Windows",
+    "Linux",
+    "macOS"
+  ],
+  "softwareRequirements": "See requirements.txt",
+  "keywords": [
+    "concrete road networks",
+    "multi-hazard resilience",
+    "Kriging surrogate model",
+    "multi-objective optimization",
+    "efficient global optimization",
+    "critical asset identification",
+    "earthquake",
+    "flood",
+    "rehabilitation planning",
+    "transportation infrastructure"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Sandesh",
+      "familyName": "Adhikari",
+      "email": "sxa1002@mavs.uta.edu",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Department of Civil Engineering, University of Texas at Arlington"
+      }
+    },
+    {
+      "@type": "Person",
+      "givenName": "Abhijit",
+      "familyName": "Roy",
+      "email": "abhijit.roy@uta.edu",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Department of Civil Engineering, University of Texas at Arlington"
+      }
+    },
+    {
+      "@type": "Person",
+      "givenName": "Sumaya",
+      "familyName": "Sharveen",
+      "email": "sumaya.sharveen@mavs.uta.edu",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Department of Civil Engineering, University of Texas at Arlington"
+      }
+    },
+    {
+      "@type": "Person",
+      "givenName": "Sushil",
+      "familyName": "Bhatta",
+      "email": "sxb2590@mavs.uta.edu",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Department of Civil Engineering, University of Texas at Arlington"
+      }
+    },
+    {
+      "@type": "Person",
+      "givenName": "Mohsen",
+      "familyName": "Shahandashti",
+      "email": "mohsen@uta.edu",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Department of Civil Engineering, University of Texas at Arlington"
+      }
+    }
+  ]
+}
