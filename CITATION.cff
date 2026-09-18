@@ -1,8 +1,7 @@
 # This CITATION.cff file was generated to credit the authors of this software.
 # Visit https://bit.ly/cffinit to generate yours today!
 #
-# TODO before publishing: fill in a `doi` field once the Zenodo DOI exists,
-# and add each author's ORCID under a `orcid: "https://orcid.org/xxxx-xxxx-xxxx-xxxx"`
+# TODO: add each author's ORCID under a `orcid: "https://orcid.org/xxxx-xxxx-xxxx-xxxx"`
 # line if available.
 
 cff-version: 1.2.0
@@ -47,6 +46,7 @@ authors:
       Department of Civil Engineering, University of Texas
       at Arlington
 repository-code: "https://github.com/sandeshadhikari23/CRN_MultiHazard_Kriging_MOEGO"
+doi: 10.5281/zenodo.22834095
 license: MIT
 version: 1.0.0
 date-released: "2026-09-16"

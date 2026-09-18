@@ -1,5 +1,7 @@
 # CRN_MultiHazard_Kriging_MOEGO
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22834095.svg)](https://doi.org/10.5281/zenodo.22834095)
+
 Code and supporting data for:
 
 > **Proactive Rehabilitation Planning for Concrete Road Networks Considering Multiple
@@ -79,5 +81,6 @@ Released under the [MIT License](LICENSE).
 
 ## How to cite
 
+Archived on Zenodo: [10.5281/zenodo.22834095](https://doi.org/10.5281/zenodo.22834095).
 See [`CITATION.cff`](CITATION.cff) for structured citation metadata (also used by GitHub's
 "Cite this repository" button).
