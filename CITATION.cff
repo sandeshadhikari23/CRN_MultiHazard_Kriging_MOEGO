@@ -1,0 +1,61 @@
+# This CITATION.cff file was generated to credit the authors of this software.
+# Visit https://bit.ly/cffinit to generate yours today!
+#
+# TODO before publishing: fill in a `doi` field once the Zenodo DOI exists,
+# and add each author's ORCID under a `orcid: "https://orcid.org/xxxx-xxxx-xxxx-xxxx"`
+# line if available.
+
+cff-version: 1.2.0
+title: >-
+  CRN_MultiHazard_MOEGO: A Kriging-Based Multi-Objective
+  Efficient Global Optimization Framework for Proactive
+  Rehabilitation Planning of Concrete Road Networks Under
+  Multiple Hazards
+message: >-
+  If you use this software, please cite the associated
+  manuscript and/or this software repository.
+type: software
+authors:
+  - family-names: Adhikari
+    given-names: Sandesh
+    email: sxa1002@mavs.uta.edu
+    affiliation: >-
+      Department of Civil Engineering, University of Texas
+      at Arlington
+  - family-names: Roy
+    given-names: Abhijit
+    email: abhijit.roy@uta.edu
+    affiliation: >-
+      Department of Civil Engineering, University of Texas
+      at Arlington
+  - family-names: Sharveen
+    given-names: Sumaya
+    email: sumaya.sharveen@mavs.uta.edu
+    affiliation: >-
+      Department of Civil Engineering, University of Texas
+      at Arlington
+  - family-names: Bhatta
+    given-names: Sushil
+    email: sxb2590@mavs.uta.edu
+    affiliation: >-
+      Department of Civil Engineering, University of Texas
+      at Arlington
+  - family-names: Shahandashti
+    given-names: Mohsen
+    email: mohsen@uta.edu
+    affiliation: >-
+      Department of Civil Engineering, University of Texas
+      at Arlington
+repository-code: "https://github.com/sandeshadhikari23/CRN_MultiHazard_Kriging_MOEGO"
+license: MIT
+version: 1.0.0
+date-released: "2026-09-16"
+keywords:
+  - concrete road networks
+  - multi-hazard resilience
+  - Kriging surrogate model
+  - multi-objective optimization
+  - efficient global optimization
+  - critical asset identification
+  - earthquake
+  - flood

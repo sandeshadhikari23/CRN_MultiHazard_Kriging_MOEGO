@@ -1,0 +1,34 @@
+# Large training datasets -- not tracked; see README for how to obtain/place these.
+/Combined_EQ.xlsx
+/Combined_F.xlsx
+
+# Data and result files -- not tracked; see each folder's README for schema/format details.
+*.xlsx
+*.xls
+*.csv
+*.png
+*.jpg
+*.jpeg
+*_report.txt
+hypervolume_log.txt
+
+# Result/output directories (any depth)
+Results/
+results/
+run_output/
+run_output_results/
+GreedyPolicies/
+figures/
+Result_EQ/
+Result_FL/
+Plots/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db

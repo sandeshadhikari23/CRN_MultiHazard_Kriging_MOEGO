@@ -1,0 +1,42 @@
+{
+  "title": "CRN_MultiHazard_MOEGO: A Kriging-Based Multi-Objective Efficient Global Optimization Framework for Proactive Rehabilitation Planning of Concrete Road Networks Under Multiple Hazards",
+  "description": "A reduced, reproducible case study accompanying the manuscript \"Proactive Rehabilitation Planning for Concrete Road Networks Considering Multiple Hazards and Multiple Assets: A Kriging-based Multi-Objective Efficient Global Optimization Approach.\" Includes the Kriging-based Multi-Objective Efficient Global Optimization (MO-EGO) framework (surrogate model, optimizer, cost-based rehabilitation budget, network-processing routines) and the underlying high-fidelity earthquake/flood damage modeling and SUMO traffic-simulation engine (hazard-model settings, fragility parameters), for a concrete road network case study in Arden-Arcade, Sacramento, California.",
+  "creators": [
+    {
+      "name": "Adhikari, Sandesh",
+      "affiliation": "Department of Civil Engineering, University of Texas at Arlington"
+    },
+    {
+      "name": "Roy, Abhijit",
+      "affiliation": "Department of Civil Engineering, University of Texas at Arlington"
+    },
+    {
+      "name": "Sharveen, Sumaya",
+      "affiliation": "Department of Civil Engineering, University of Texas at Arlington"
+    },
+    {
+      "name": "Bhatta, Sushil",
+      "affiliation": "Department of Civil Engineering, University of Texas at Arlington"
+    },
+    {
+      "name": "Shahandashti, Mohsen",
+      "affiliation": "Department of Civil Engineering, University of Texas at Arlington"
+    }
+  ],
+  "keywords": [
+    "concrete road networks",
+    "multi-hazard resilience",
+    "Kriging surrogate model",
+    "multi-objective optimization",
+    "efficient global optimization",
+    "critical asset identification",
+    "earthquake",
+    "flood",
+    "rehabilitation planning",
+    "transportation infrastructure"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open"
+}
+

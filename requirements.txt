@@ -1,0 +1,22 @@
+# Root requirements for CRN_MultiHazard_MOEGO.
+# Covers the Python packages actually imported across the scripts in this repo
+# (checked via a repo-wide import scan; see top-level README for scope).
+#
+# Core numerics / data handling
+numpy
+pandas
+scipy
+scikit-learn
+
+# Excel I/O (pandas' .xlsx read/write engine; every script here reads/writes .xlsx)
+openpyxl
+
+# Plotting
+matplotlib
+matplotlib-venn
+seaborn
+
+# Network graph / traffic simulation (needed by scripts under
+# 02_HighFidelity_Simulation_Engine/ that build/traverse the SUMO road network graph)
+networkx
+sumolib   # ships with SUMO (https://sumo.dlr.de/); also available standalone via pip
